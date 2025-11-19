@@ -16,6 +16,8 @@ dependencies:
   google_sign_in: ^7.2.0
   firebase_core: ^4.2.0
   firebase_auth: ^6.1.1
+  cloud_firestore: ^6.1.0
+  cherry_toast: ^1.13.0
 
 dev_dependencies:
   flutter_test:
